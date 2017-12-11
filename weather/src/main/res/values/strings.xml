@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">weather-dz2</string>
+    <string name="citylist">CityList</string>
+    <string name="city_choose">Выбрать город</string>
+    <string name="error_field_required">This field is required</string>
+
+    <string-array name="city_selection">
+        <item>Москва</item>
+        <item>Питер</item>
+        <item>Бабруйск</item>
+        <item>Риодежанейро</item>
+    </string-array>
+
+    <string-array name="city_weather">
+        <item>BAD</item>
+        <item>VARY BAD</item>
+        <item>FINE</item>
+        <item>VERY FINE</item>
+    </string-array>
+    <string name="title_activity_second">Second</string>
+    <string name="weather_status_string">Погода</string>
+</resources>
